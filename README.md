@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luskaa1
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on none
+- 📫 How to reach me Luskaa#1024 on Discord
