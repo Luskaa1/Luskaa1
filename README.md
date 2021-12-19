@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luskaa1
+- 👋 Hi, I’m Luskaa
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on none
